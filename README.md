@@ -1,5 +1,5 @@
 # ComparePruning
-A controlled comparason of various pruning methods to optimize deep neural networks
+A controlled comparison of various pruning methods to optimize deep neural networks
 
 ## Neural Network Pruning Methods Comparison
 
